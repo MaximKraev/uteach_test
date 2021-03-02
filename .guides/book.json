@@ -1,0 +1,17 @@
+{
+ "name": "uteach css",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "c7e69bde-33ad-0669-aa09-e88956f1a588",
+   "pageId": "c7e69bde-33ad-0669-aa09-e88956f1a588",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "02077238-56b9-138a-f792-c00630356dd3",
+   "pageId": "02077238-56b9-138a-f792-c00630356dd3",
+   "type": "page"
+  }
+ ]
+}
